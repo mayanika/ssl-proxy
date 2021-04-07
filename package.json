@@ -1,0 +1,23 @@
+{
+  "name": "ssl-proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayanika/ssl-proxy.git"
+  },
+  "author": "Mayanika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayanika/ssl-proxy/issues"
+  },
+  "homepage": "https://github.com/mayanika/ssl-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1"
+  }
+}
